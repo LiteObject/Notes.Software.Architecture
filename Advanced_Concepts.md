@@ -2,7 +2,7 @@ I’ll list out some **advanced software architecture topics** that experienced 
 
 ---
 
-## 🔹 1. Distributed Systems & Scalability
+## 1. Distributed Systems & Scalability
 
 * **Event-Driven Architecture (EDA)** – using events as first-class citizens, with brokers like Kafka or RabbitMQ.
 * **CQRS (Command Query Responsibility Segregation)** – separating reads and writes for performance and scalability.
@@ -15,7 +15,7 @@ I’ll list out some **advanced software architecture topics** that experienced 
 
 ---
 
-## 🔹 2. Integration Patterns
+## 2. Integration Patterns
 
 * **API Gateway & Backend for Frontend (BFF)** – shaping APIs for different clients.
 * **Anti-Corruption Layer (ACL)** – isolating new systems from legacy ones.
@@ -25,7 +25,7 @@ I’ll list out some **advanced software architecture topics** that experienced 
 
 ---
 
-## 🔹 3. Resilience & Reliability
+## 3. Resilience & Reliability
 
 * **Circuit Breakers & Bulkheads** – preventing cascading failures.
 * **Retries, Backoff, Idempotency** – ensuring robustness under failure.
@@ -34,7 +34,7 @@ I’ll list out some **advanced software architecture topics** that experienced 
 
 ---
 
-## 🔹 4. Domain-Driven Design (DDD)
+## 4. Domain-Driven Design (DDD)
 
 * **Bounded Contexts** – breaking a large domain into manageable pieces.
 * **Aggregates & Entities** – modeling consistency boundaries.
@@ -43,7 +43,7 @@ I’ll list out some **advanced software architecture topics** that experienced 
 
 ---
 
-## 🔹 5. Data & Storage Architecture
+## 5. Data & Storage Architecture
 
 * **Polyglot Persistence** – using different databases for different needs (SQL, NoSQL, Graph, Time-series).
 * **Data Mesh** – decentralized, domain-oriented data ownership.
@@ -55,7 +55,7 @@ I’ll list out some **advanced software architecture topics** that experienced 
 
 ---
 
-## 🔹 6. Security & Compliance
+## 6. Security & Compliance
 
 * **Zero Trust Architecture** – every request is verified regardless of network location.
 * **Federated Identity & SSO** – OAuth2, OpenID Connect, SAML.
@@ -64,7 +64,7 @@ I’ll list out some **advanced software architecture topics** that experienced 
 
 ---
 
-## 🔹 7. Observability & Operations
+## 7. Observability & Operations
 
 * **Telemetry Architecture** – logs, metrics, traces (OpenTelemetry).
 * **Distributed Tracing** – following requests across microservices.
@@ -73,7 +73,7 @@ I’ll list out some **advanced software architecture topics** that experienced 
 
 ---
 
-## 🔹 8. Emerging / Cutting-Edge Topics
+## 8. Emerging / Cutting-Edge Topics
 
 * **Micro-Frontends** – applying microservices principles to UI.
 * **Edge Computing Architectures** – pushing compute closer to users.
