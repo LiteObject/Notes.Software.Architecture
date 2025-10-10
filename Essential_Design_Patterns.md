@@ -39,29 +39,6 @@
 26. **Dependency Injection** - Design principle that inverts control of object creation and wiring (objects receive what they need)
 27. **Service Layer** - Delimits business logic boundaries and coordinates application operations (defines clear use cases)
 
-## **Priority for Senior Engineers**
-
-**Must Know (Critical):**
-- Singleton, Factory, Builder
-- Adapter, Decorator, Facade, Proxy
-- Strategy, Observer, Command, Template Method
-- Dependency Injection, Repository
-
-**Should Know (Important):**
-- Abstract Factory, Prototype
-- Composite, Bridge
-- State, Chain of Responsibility, Iterator
-- MVC/MVVM, Service Layer
-
-**Good to Know:**
-- Flyweight, Mediator, Memento, Visitor
-
-## **Helpful Terms**
-
-- **Intrinsic state** – Shared, immutable data every flyweight instance can reuse (e.g., chess piece type).
-- **Extrinsic state** – Data that changes per use and stays outside the flyweight (e.g., piece position on the board).
-- **Application boundary** – The line where your core business logic stops and external systems begin (APIs, databases, UI).
-
 ## **Key Principles to Understand**
 
 Along with patterns, master these foundational principles:
